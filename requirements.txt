@@ -1,0 +1,14 @@
+# Core Libraries
+numpy
+opencv-python
+matplotlib
+scikit-learn
+pandas
+
+# Machine Learning / Deep Learning
+tensorflow==2.10.1
+
+# MediaPipe (for landmark/keypoint detection)
+mediapipe==0.10.9
+
+
