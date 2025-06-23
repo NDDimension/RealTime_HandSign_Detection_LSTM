@@ -50,11 +50,11 @@ flowchart TD
 
 Accuracy on test set: **~98%**  
 
-- [Chapter 1: MediaPipe Library](docs/chapter1.md)
-- [Chapter 2: Keypoint Extraction](docs/chapter2.md)
-- [Chapter 3: Sequence Handling](docs/chapter3.md)
-- [Chapter 4: Label Mapping , Encoding and Splitting](docs/chapter4.md)
-- [Chapter 5: LSTM Model](docs/chapter5.md)
+- [Chapter 1: MediaPipe Library](/chapter1.md)
+- [Chapter 2: Keypoint Extraction](/chapter2.md)
+- [Chapter 3: Sequence Handling](/chapter3.md)
+- [Chapter 4: Label Mapping , Encoding and Splitting](/chapter4.md)
+- [Chapter 5: LSTM Model](/chapter5.md)
 
 ## 🙏 Acknowledgments
 This project was inspired and guided by the excellent tutorial on **YouTube by Nicholas Renotte**. Huge thanks to him for breaking down complex concepts and making machine learning accessible for real-time gesture recognition. 🎥🧠
